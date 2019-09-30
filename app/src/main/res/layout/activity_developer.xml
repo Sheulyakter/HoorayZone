@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_developer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/backgroundblack"
+    tools:context="com.example.purnota.hoorayzone.DeveloperActivity">
+
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:text=" "
+        android:textColor="#ffff"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_us"
+        android:textAlignment="center"
+        android:layout_marginTop="-70dp"
+        android:textSize="25sp"
+        android:textColor="#77b300"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+    <ImageView
+        android:id="@+id/imgMasud"
+        android:layout_width="60dp"
+        android:layout_height="75dp"
+        android:src="@drawable/anu"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/alamgirImage"
+        android:layout_alignEnd="@+id/alamgirImage"
+        android:layout_marginTop="17dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nitu"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0099ff"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/imageView1"
+        android:layout_alignLeft="@+id/alamgirText"
+        android:layout_alignStart="@+id/alamgirText" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="60dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="77dp"
+        android:src="@drawable/nitu"
+        android:layout_below="@+id/imgMasud"
+        android:layout_alignLeft="@+id/imgMasud"
+        android:layout_alignStart="@+id/imgMasud" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sir"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/colorAct"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:id="@+id/alamgirText"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/textView4"
+        android:layout_toRightOf="@+id/textView7"
+        android:layout_toEndOf="@+id/textView7"
+        android:layout_marginLeft="19dp"
+        android:layout_marginStart="19dp" />
+
+    <ImageView
+        android:id="@+id/alamgirImage"
+        android:layout_width="80dp"
+        android:layout_height="90dp"
+        android:src="@drawable/sir"
+        android:layout_alignTop="@+id/alamgirText"
+        android:layout_alignRight="@+id/textView7"
+        android:layout_alignEnd="@+id/textView7" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/anu"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0099ff"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/imgMasud"
+        android:layout_alignRight="@+id/textView2"
+        android:layout_alignEnd="@+id/textView2" />
+
+</RelativeLayout>

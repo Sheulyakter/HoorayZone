@@ -1,0 +1,252 @@
+<resources>
+    <string name="app_name">Hoorayzone</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="loginnew">Login</string>
+    <string name="welcome_user">Welcome User</string>
+
+    <string name="action1">Home</string>
+    <string name="action2">About</string>
+    <string name="action3">Credit</string>
+    <string name="action4">Setting</string>
+    <string name="action5">Exit</string>
+
+    <string name="exit">Exit</string>
+    <string name="exitmessage">Are You Sure To Exit it? </string>
+
+     <string name="list">1.It becomes convenient for users to book their tour online instead of visiting agency.\n\n2.It Saves time and money.\n\n3.It Provides a customized view of the tour to users.\n\n4.The app is easy and flexible to use.\n\n5.Customer easily can see the watchlist.\n\n6.Organize all your travel plans in one place.\n\n7.They can provide special offers like HoneyMoon packages.\n\n
+
+</string>
+    <string name="customer">Customer</string>
+    <string name="admin">Admin</string>
+    <string name="gmail">nusrata315@gmail.com</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="about">About</string>
+    <string name="developer">Developer</string>
+    <string name="search">Search</string>
+    <string name="watchlist">WatchList</string>
+    <string name="trips">Trips</string>
+    <string name="specialOffer">Special Offer</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="addtrips">Add Trips</string>
+    <string name="tripList">Trips List</string>
+    <string name="booking_list">Booking List</string>
+    <string name="find_trips">Find Trips</string>
+    <string name="see_special_offer">See Special Offer</string>
+
+
+    <string name="Anuu">Name : Anamika\nAddress: Bhedorgonj,Shariatpur\nNID:0123456789\nReligion: Islam\nGender: Female\n</string>
+    <string name="place">Place</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="days">Days</string>
+    <string name="submit">Submit</string>
+
+    <string name="coxbazar">The seaside town Cox’s Bazar is located in Chittagong Division. Also known as Panowa, it has the longest (125 kilometers) natural and sandy sea-beach. ‘Panowa’ literally means ‘yellow flower’. Cox’s Bazar is the district headquarter.Cox’s Bazar is considered as one of the most widely visited tourist destinations in Bangladesh. The huge Buddhist monastery named Aggmeda Khyang is one of the top tourist attractions here. Ramu is a village where the Buddhist population resides. Cox’s Bazar is well known for its homemade cigars and handicrafts. Also the first safari park of Bangladesh, Bangabandhu Sheikh Mujib Safari Park is about 50 kilometers away from Cox’s Bazar Town.</string>
+    <string name="cox_s_bazar">Cox Bazar</string>
+    <string name="kua">Kuakata</string>
+    <string name="bandor">Bandorban</string>
+    <string name="bandorban">Bandarban, literally meaning ‘dam of monkeys’, is a district of Bangladesh in Chittagong Division and Chittagong Hill Tracts. After the Chittagong Hill Tract Insurgency, it emerged as one of the most fascinating tourist attractions of Bangladesh.
+
+The beautiful mountain ranges escalate the natural beauty of the surroundings. The largest Buddhist temple of Bangladesh known as Buddha Dhatu Jadi is situated in Bandarban. Shoilo Propat waterfall at Milanchari; several Buddhist temples like Ujanipara Vihar and Raj Vihar; Chimbuk Hill and Tribal Villages are worth watching. Also the peaks like Nilgiri and Thanchi captivate the eyes of the tourists immensely.</string>
+    <string name="kuakata">Kuakata is located in the southern part of Bangladesh. The panoramic view of the sea beach and the beautiful tourist attractions in and round Kuakata makes it one of the most popular tourist destinations in Bangladesh.
+
+The sunset and sunrise can be seen in their full splendor from the wide sandy beach of Kuakata. Fatrar Chor (part of Sundarban), Gangamati Reserved Forest, Jhau Bon (forest), Keranipara Seema Temple, Misripara Buddhist Temple, and Eco Park are very popular among both domestic and foreign tourists.</string>
+
+
+    <string name="sp1">5 Persons 3 Days\n Cost: 30% offer.</string>
+    <string name="sp2">Couples 10 Days\n Cost: 50% offer.</string>
+    <string name="sp6">Couples 5 Days\n Cost: 20% offer.</string>
+    <string name="sp7">Couples 7 Days\n Cost: 40% offer.</string>
+    <string name="sp3">4 Persons 5 Days\n Cost: 20% offer.</string>
+    <string name="name">Name</string>
+    <string name="places">Places</string>
+    <string name="payment">Payment</string>
+
+    <string name="n1">Anamika</string>
+    <string name="n2">Nitu</string>
+    <string name="n3">Prome</string>
+
+    <string name="date1">\t\tFeb 18- Feb 20\n12 PM Pick-Up, 12 PM Drop-Off </string>
+
+
+    <string name="p2">Sajhek</string>
+    <string name="p3">Kuakata</string>
+    <string name="full_payment">Full Payment</string>
+    <string name="hotels">Hotels</string>
+    <string name="flights">Flights</string>
+    <string name="cars">Cars</string>
+    <string name="developers">Developer</string>
+    <string name="same_drop_off">Same Drop Off</string>
+    <string name="different_drop_off">Different Drop Off</string>
+    <string name="pickup">Pick-Up</string>
+    <string name="dropoff">Drop-Off</string>
+    <string name="booked">Booked</string>
+
+    <string name="sajek">Sajek Valley</string>
+    <string name="nilachal">Nilachal</string>
+    <string name="nilachalD">Nilachal is a beautiful tourist place to Meghla Parjatan Complex, also known as tiger hill. It is maintained by district administration. Nilachal is special for spectacular view from the hill apex and taking photos.It is the nearest tourist spot from Bandarban, situated at Tiger para. It stands 2000 feet above sea level and 5 kilometer away from the Bandarban town. Total glance of Bandarban town and a vast photographic hillside can be seen from here.</string>
+
+    <string name="coxd">\nThe date of the journey is 28th February 7.00 pm\nReturn date 4 March morning at 6.30 (approximate)\n\nPackage Price: 7000 / - Per Person\n(7800 Per Person of Couple).\n\n\n** Coming and going to AC Cooling\n** Hotel Budapest Buffet dinner.\n\n\nTour Description: \n\nOn the night of 28th night, the journey to Teknaf from Fakirapul bus.\n
+
+\n\n1st day, on the first day, we will go to Teknaf and breakfast will go to Jeddah first.\n After that you will arrive in St. Martin. After reaching the hotel check in at noon and eating the mentioned points and then this afternoon, the group will draw all the hoorayzone T-shirts.
+
+\n\nTraveling to Chhara Island in the morning on 2nd day and lattano on the sea coast in the afternoon.
+
+\n\nTeknaf will leave after lunch on the 3rd day, then the night bus is covered.
+
+\n\n4th will be able to hold office in the morning.\n\n\n
+
+Number of seats: 16 people ..\n\n\n
+
+Confirmation deadline: 25th February (subject to availability of seats)\n\n
+
+** Whatever is in it\n\n
+- 1 day breakfast every 3 hours a day.\n
+- Dhaka-Teknaf travel expenses on non AC buses.\n
+- Shipping costs\n
+- The cost of the resort.\n
+-Corchand trip costs.\n\n
+
+** Which is not\n\n
+- No personal expenses\n
+Which medicine?\n
+- If you eat any food outside the package or at any other cost\n\n\n
+
+** Which should be taken with:\n\n
+- Robi Sim. (Although now almost all SIM net is available)\n
+- Adomos to survive mosquitoes\n
+- Take the towel to cover the head in the sun\n
+- It is likely to be raining, so to protect your bag and other accessories from the rain should be taken.\n
+- Sunglasses, Hats, Sun Cream (if you are aware of extra skin)\n
+- Brush, necessary medicine\n
+- Rain cover on mobile (for video and photos, but for mobile protection).\n
+- Camera and its extra battery\n
+- Power bank for charging (St. Martin does not have electricity, but there are generators, but not enough).\n\n\n
+
+
+The things that must be considered before confirming are:\n\n
+* Bus seats and resorts will be provided based on the trip confirmation.\n
+* Victory Day will be closed, so there can be plenty of rain, everything must have a Sceptifying Mind, to help each other.\n
+* This trip may take a fair walk in different locations, though not too much.\n
+* There should be 4/6 people in one room, there will be separate rooms for boys and girls.\n\n\n
+
+
+    The way to send money (most of the transactions in the bank is safe and we encourage you to deal in the bank, even after being safe, taking the trip confirmation token by depositing money in the office)\n\n\n</string>
+
+
+    <string name="sir">Md. Alamgir Kabir\nChief Advisor\nCall: +8801737724418\nE-mail: alamgir.cse.iu.bd@gmail.com\nLecturer,Dept. of CSE,ZHSUST</string>
+    <string name="anu">Name : Anamika\nCore Designer and Developer\nCall:+8801797070002\nE-mail: nusrata315@gmail.com\n(9th Batch),\tDept. of CSE,ZHSUST</string>
+    <string name="nitu">Name : Nitu\nPro. Designer and Developer \nCall: +8801797070002\nE-mail: nitu.cse@gmail.com\n(9th Batch),\tDept. of CSE,ZHSUST</string>
+    <string name="about_us">About Us</string>
+    <string name="hotel_info">Hotel Info.</string>
+    <string name="info">Click Here To Know The Information about Hotels</string>
+    <string name="info2">Click Here To Know The Information about Flights Schedules</string>
+    <string name="flights_info">Flights Info</string>
+
+    <string name="txtCredits"><a href="https://www.facebook.com/profile.php?id=100009027198376">Google</a></string>
+    <string name="txtCreditsEmail"><a href="https://www.facebook.com/profile.php?id=100009027198376">Google</a></string>
+
+
+    <string name="btn1">Sajhek Valley</string>
+    <string name="btn2">Bandorban Nafakhum Waterfal</string>
+    <string name="btn3">Bandorban Boga Lake</string>
+    <string name="btn4">Kuakata Sea Beach</string>
+    <string name="btn5">Chittagong Hill Tracts</string>
+    <string name="btn6">RangaMati</string>
+    <string name="btn7">Cox Bazar Sea Beach</string>
+    <string name="btn8">Saint Martin Bangladesh</string>
+    <string name="btn9">Bandarban Nilgiri</string>
+    <string name="btn10">Bandarban Nilachal</string>
+    <string name="btn11">Chandpur Mini Cox Bazar</string>
+    <string name="honeymoon">Honeymoon Package</string>
+    <string name="holiday_package">Holiday Package</string>
+    <string name="vacation_package">Vacation Package</string>
+    <string name="for_duet_package">For Duet Package</string>
+
+
+    <string name="offer_includes">Offer Includes:</string>
+
+    <string name="numLink">Call : +8801797070002\n</string>
+    <string name="gmailLink">Gmail : www.nusrata315@gmail.com</string>
+    <string name="fbLink">Facebook : www.facebook.com/profile.php?id=100009027198376</string>
+    <string name="customer_profile">Customer Profile</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="available_trips">Available Trips</string>
+    <string name="previous_trips">Previous Trips</string>
+    <string name="sundarban">Sundarban</string>
+    <string name="are_you_sure_to_book">Are You Sure to Confirm SaintMartin Tour</string>
+    <string name="cox_bazar_to_saintmartin">SaintMartin</string>
+    <string name="saint_martin">Saint Martin</string>
+
+
+    <string name="offer1">1. Within Bangladesh = 30%\n\n</string>
+    <string name="offer2">2.Outside of Bangladesh = 20%\n\n </string>
+    <string name="offer3">3.Common Offer :\n</string>
+    <string name="offer4">-2 weekend nights(Friday - Sunday).\n-Rich buffet breakfast.\n-3 course dinner to choose.\n-Fitness room.\n- Secured parking.\n-Wifi internet.\n-Helpful and attentive staff.\n-Hoorayzone t-shirt\n-
+Intermediate space travel</string>
+    <string name="email_id">Email ID</string>
+    <string name="subject_of_mail">Subject of mail</string>
+
+
+     <string name="sajekd">\nThe date of the journey is 28th February 7.00 pm\nReturn date 4 March morning at 6.30 (approximate)\n\nPackage Price: 7000 / - Per Person\n(7800 Per Person of Couple).\n\n\n** Coming and going to AC Cooling\n** Hotel Budapest Buffet dinner.\n\n\nTour Description: \n\nOn the night of 28th night, the journey to Teknaf from Fakirapul bus.\n
+
+\n\n1st day, on the first day, we will go to Teknaf and breakfast will go to Jeddah first.\n After that you will arrive in St. Martin. After reaching the hotel check in at noon and eating the mentioned points and then this afternoon, the group will draw all the hoorayzone T-shirts.
+
+\n\nTraveling to Chhara Island in the morning on 2nd day and lattano on the sea coast in the afternoon.
+
+\n\nTeknaf will leave after lunch on the 3rd day, then the night bus is covered.
+
+\n\n4th will be able to hold office in the morning.\n\n\n
+
+Number of seats: 16 people ..\n\n\n
+
+Confirmation deadline: 25th February (subject to availability of seats)\n\n
+
+** Whatever is in it\n\n
+- 1 day breakfast every 3 hours a day.\n
+- Dhaka-Teknaf travel expenses on non AC buses.\n
+- Shipping costs\n
+- The cost of the resort.\n
+-Corchand trip costs.\n\n
+
+** Which is not\n\n
+- No personal expenses\n
+Which medicine?\n
+- If you eat any food outside the package or at any other cost\n\n\n
+
+** Which should be taken with:\n\n
+- Robi Sim. (Although now almost all SIM net is available)\n
+- Adomos to survive mosquitoes\n
+- Take the towel to cover the head in the sun\n
+- It is likely to be raining, so to protect your bag and other accessories from the rain should be taken.\n
+- Sunglasses, Hats, Sun Cream (if you are aware of extra skin)\n
+- Brush, necessary medicine\n
+- Rain cover on mobile (for video and photos, but for mobile protection).\n
+- Camera and its extra battery\n
+- Power bank for charging (St. Martin does not have electricity, but there are generators, but not enough).\n\n\n
+
+
+The things that must be considered before confirming are:\n\n
+* Bus seats and resorts will be provided based on the trip confirmation.\n
+* Victory Day will be closed, so there can be plenty of rain, everything must have a Sceptifying Mind, to help each other.\n
+* This trip may take a fair walk in different locations, though not too much.\n
+* There should be 4/6 people in one room, there will be separate rooms for boys and girls.\n\n\n
+
+
+    The way to send money (most of the transactions in the bank is safe and we encourage you to deal in the bank, even after being safe, taking the trip confirmation token by depositing money in the office)\n\n\n</string>
+
+
+
+
+
+
+</resources>

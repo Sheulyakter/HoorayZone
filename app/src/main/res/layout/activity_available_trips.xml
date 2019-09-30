@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_available_trips"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="2dp"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp"
+    android:paddingTop="2dp"
+    android:background="@drawable/backgroundblack"
+    tools:context="com.example.purnota.hoorayzone.AvailableTripsActivity">
+
+    <LinearLayout
+        android:layout_marginTop="120dp"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:textAllCaps="false"
+            android:layout_marginTop="3dp"
+            android:background="@color/colorFlower"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawablePadding="10dip"
+            android:gravity="center"
+            android:id="@+id/sajek"
+            android:text="@string/sajek"
+            android:textSize="16sp"
+            android:textColor="#fff"
+            />
+
+
+
+        <Button
+            android:textAllCaps="false"
+            android:layout_marginTop="3dp"
+            android:background="@color/colorFlower"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawablePadding="10dip"
+            android:gravity="center"
+            android:id="@+id/cox"
+            android:text="@string/saint_martin"
+            android:textSize="16sp"
+            android:textColor="#fff"
+            />
+
+        <Button
+            android:textAllCaps="false"
+            android:layout_marginTop="3dp"
+            android:background="@color/colorFlower"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawablePadding="10dip"
+            android:gravity="center"
+            android:id="@+id/sundarban"
+            android:text="@string/sundarban"
+            android:textSize="16sp"
+            android:textColor="#fff"
+            />
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

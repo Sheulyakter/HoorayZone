@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_sundarban"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="1dp"
+    android:paddingLeft="1dp"
+    android:paddingRight="1dp"
+    android:paddingTop="1dp"
+    tools:context="com.example.purnota.hoorayzone.SundarbanActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginLeft="100dp"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/sajek"
+                />
+
+            <ImageView
+                android:layout_marginTop="15dp"
+                android:id="@+id/b"
+                android:layout_width="match_parent"
+                android:layout_height="176dp"
+                android:background="@drawable/sajek"/>
+            <TextView
+                android:textColor="#111111"
+                android:textSize="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/coxd"/>
+
+            <Button
+                android:id="@+id/submitsundarban"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:textSize="12sp"
+                android:text="@string/are_you_sure_to_book"
+                android:background="@color/colorGrassDark"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
